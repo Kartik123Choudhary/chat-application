@@ -10,8 +10,10 @@ This real-time chat application enables users to exchange messages, videos, imag
 
 🛠️ Built With
 
-Frontend: ViteJS (React)
-Backend: Node.js, Express.js
+Frontend: ViteJS (React).
+
+Backend: Node.js, Express.js.
+
 Real-Time Chat: ChatEngine.io
 
 🚀 Features
