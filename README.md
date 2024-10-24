@@ -1,4 +1,4 @@
-# chat-application
+# Chat-Application
 💬 Real-Time Chat Application
 Welcome to the Real-Time Chat Application repository! This project is a feature-rich chat platform designed for seamless communication. It supports sending and receiving messages, media files, and even handles time zone differences for accurate message timestamps.
 
